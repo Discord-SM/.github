@@ -2,7 +2,7 @@
     Discord SM
 </h2>
 <h2 align="center">
-    Current version: 0.2.0
+    Current version: 0.3.0
 </h2>
 <p align="center">
     Open source Discord bot for interacting with game servers powered by SourceMod Engine
@@ -24,9 +24,11 @@
 
 #### Why DiscordSM?
 
-* Easy installation and convenient setup
+* Modular system
+* Possibility to add your capabilities
+* Easy installation and convenient setting
 * Constant updates and improvements
-* Permanent support from the founder of the project
+* Ongoing support from the founder of the project
 </br>
 
 ***
