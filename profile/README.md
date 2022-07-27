@@ -2,7 +2,7 @@
     Discord SM
 </h2>
 <h2 align="center">
-    Current version: 0.3.0
+    Current version: 0.4.0
 </h2>
 <p align="center">
     Open source Discord bot for interacting with game servers powered by SourceMod Engine
